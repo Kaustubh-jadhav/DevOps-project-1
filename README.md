@@ -1,3 +1,9 @@
+Steps 
+
+```
+git clone https://github.com/Kaustubh-jadhav/DevOps-project-1.git
+cd DevOps-project-1
+```
 1. Launch EC2 and Connect it using SSH
 2. Install Webserver into it
 ```
